@@ -1,0 +1,194 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.logo {
+    position:absolute;
+    width: 12em;
+    height: 8em;
+    margin-top: -2em;
+    margin-left: -1em;
+}
+nav a {
+    text-decoration: none;
+}
+nav a {
+    position: absolute;
+    font-size: 15px;
+    color: black;
+    right: 1.1em;
+    top: 1.4em;
+    font-family: inter, sans-serif;
+    font-weight: bold;
+}
+.header1 {
+    position: absolute;
+    margin-top: 3.8em;
+    margin-left: 2.8em;
+    font-family: inter, sans-serif;
+    font-size: 43px;
+}
+p.headPar1 {
+    position: absolute;
+    margin-left: 6.8em;
+    top: 15em;
+    font-family: inter, sans-serif;
+    font-size: 18px;
+    letter-spacing: .1em;
+    font-weight: 125;
+    line-height: 1.7em;
+}
+button {
+    position: absolute;
+    left: 9.8em;
+    top: 30em;
+    height: 3.7em;
+    width: 17em;
+    background:rgb(17, 166, 131);
+    color: white;
+    border-style: hidden;
+    border-radius: .5em;
+
+}
+button:hover {
+    cursor: pointer;
+}
+a.one {
+    text-decoration: none;
+    
+}
+a.one:visited {
+    text-decoration: none;
+    color: white;
+}
+.starRating {
+    position: absolute;
+    left: 8em;
+    top: 30em;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+p.starRatingReviews {
+    color: gray;
+    position: relative;
+    left: .5em;
+    font-family: inter, sans-serif;
+}
+p.starRatingReviews2 {
+    color: gray;
+    position: absolute;
+    top: 31.5em;
+    left: 8em;
+    font-family: inter, sans-serif;
+}
+.emailBox {
+    position: absolute;
+    width: 28em;
+    height: 23em;
+    border-style: inherit;
+    border-radius: .5em;
+    top: 10em;
+    left: 45em;
+    background-color: white;
+    
+}
+.gmailLogo {
+    position:relative;
+    width: 3.2em;
+    height: 1.6em;
+    margin-top: 1em;
+    margin-left: .8em;
+}
+.grammarlyIcon {
+    position: relative;
+    width: 1.8em;
+    height: 1.8em;
+    left: 20em;
+}
+p.line {
+    position: relative;
+    border: .1px solid rgb(216, 214, 214);
+    width: 24.2em;
+    height: .1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.rosa {
+    position: relative;
+    margin-left: 1.8em;
+    line-height: 2em;
+    font-family: Inter, sans-serif;
+}
+.circle {
+    position: absolute;
+    left: 48em;
+    top: -9em;
+    width: 50em;
+    height: 50em;
+    border-radius: 50%;
+    background: radial-gradient(closest-side, white, rgb(142, 192, 224), rgb(117, 192, 180));
+    border: 1em solid white;
+    z-index: -1;
+}
+.grammarlyBox1 {
+    position: absolute;
+    width: 18em;
+    height: 22em;
+    top: 44em;
+    left: 8em;
+}
+.grammarlyBox2 {
+    position: absolute;
+    width: 17em;
+    height: 24em;
+    top: 42em;
+    left: 26em;
+}
+.circle2 {
+    position: absolute;
+    width: 30em;
+    height: 30em;
+    border-radius: 50%;
+    top: 40em;
+    border: 1em solid white;
+    background: linear-gradient(to top right, rgb(134, 188, 196) 20%, white 60%);
+    z-index: -1;
+}
+.stars {
+    position: absolute;
+    width: 10em;
+    height: 2em;
+    left: 50em;
+    top: 45em;
+}
+.header2 {
+    position: absolute;
+    Top: 23.4em;
+    left: 25.2em;
+    font-family: inter, sans-serif;
+}
+p.headPar2 {
+    position: absolute;
+    top: 48em;
+    left: 44.8em;
+    font-family: inter, sans-serif;
+    font-size: 18px;
+    letter-spacing: .1em;
+    font-weight: 125;
+    line-height: 1.7em;
+}
+a.showMeMore {
+    position: absolute;
+    left: 42.2em;
+    top: 54em;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: rgb(62, 130, 231);
+    font-family: inter, sans-serif;
+}
+a.showMeMore:visited {
+    text-decoration: none;
+    color:rgb(62, 130, 231)
+}
